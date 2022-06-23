@@ -1,0 +1,73 @@
+[
+    {
+        "id":"kid01",
+        "name":"Naruto Uzamaki",
+        "salary":"350000.00",
+        "department": "Hokage"
+    },
+
+    {
+        "id":"kid02",
+        "name":"Piccaclo Goat",
+        "salary":"75000.00",
+        "department": "Dragon Ball"
+    },
+
+    {
+        "id":"kid03",
+        "name":"Ash Ketchum",
+        "salary":"57000.00",
+        "department": "PokeMon"
+    },
+
+
+     {
+        "id":"kid04",
+        "name":"Leonel Morales",
+        "salary":"480.00",
+        "department": "Dimensonal Descent"
+    },
+
+    {
+        "id":"kid05",
+        "name":"Light Nagami",
+        "salary":"666000.00",
+        "department": "Judge and Jury"
+    },
+
+    {
+        "id":"kid06",
+        "name":"sponge bob",
+        "salary":"450000.00",
+        "department": "Food Management"
+    },
+
+    {
+        "id":"kid07",
+        "name":"Spy Kid",
+        "salary":"700700.00",
+        "department": "Esp"
+    },
+
+    {
+        "id":"kid08",
+        "name":"Donald Trump",
+        "salary":"0.00",
+        "department": "Big Capper"
+    },
+
+    {
+        "id":"kid09",
+        "name":"Elon Musk",
+        "salary":"999999.00",
+        "department": "Bird Wishperer"
+    },
+
+    {
+        "id":"kid10",
+        "name":"Tsiniate Endalkachew",
+        "salary":"900000.00",
+        "department": "Tech Engineering"
+    }
+
+]
